@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="12px" viewBox="0 0 9 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>lock-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Credit-card-states" transform="translate(-590.000000, -622.000000)" fill="#666666">
+            <g id="Group-7" transform="translate(480.000000, 118.995476)">
+                <g id="Group-4" transform="translate(110.000000, 501.004524)">
+                    <path d="M4.5,2 C6.43299662,2 8,3.56700338 8,5.5 L8,5.5 L8,6.673 L9,6.67395805 L9,13.173958 L0,13.173958 L0,6.67395805 L1,6.673 L1,5.5 C1,3.6314366 2.4642776,2.10487355 4.3079648,2.00517886 Z M4.5,3 C3.11928813,3 2,4.11928813 2,5.5 L2,5.5 L2,6.673 L7,6.673 L7,5.5 C7,4.1745166 5.96846406,3.08996133 4.66437569,3.00531768 Z" id="lock-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "extends": "standard-with-typescript",
+  "parserOptions": {
+    "project": ["./source/tsconfig.json"]
+  },
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "semi": "off",
+    "@typescript-eslint/semi": ["error"]
+  },
+  "env": {
+    "jest": true
+  }
+}

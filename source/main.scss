@@ -1,0 +1,17 @@
+// @import "styles/reset.scss";
+
+:root {
+  --color-primary: #0077ff;
+  --color-primary-focus: #0068df;
+  --color-error: #ff5252;
+  --color-text-muted: #888888;
+  --color-input-text-muted: #ababab;
+  --color-input-border: #dddddd;
+  --color-background: #fafafa;
+  --other-color: #d8d8d8;
+}
+
+body {
+  background-color: var(--color-background);
+  margin: 0;
+}
